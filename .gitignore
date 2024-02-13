@@ -1,0 +1,6 @@
+vendor
+composer.lock
+
+# required
+belum_asik.json
+data_individu.json

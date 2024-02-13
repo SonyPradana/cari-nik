@@ -1,0 +1,14 @@
+{
+    "name": "angger/cari-nik",
+    "type": "project",
+    "require": {
+        "sonypradana/php-library": "v0.28"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "SonyPradana",
+            "email": "sonypradana@gmail.com"
+        }
+    ]
+}
